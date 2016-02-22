@@ -1,0 +1,23 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 150px;
+    text-align: center;
+}
+
+a {
+    font-size: 50px;
+    background-color: rgb(220, 220, 220);
+    border: solid;
+    border-color: red;
+}
+
+a:hover {
+    color: black;
+    background-color: rgb(250, 250, 250);
+    border: none;
+}
+
+p {
+    text-align: center;
+}

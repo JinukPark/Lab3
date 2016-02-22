@@ -1,0 +1,32 @@
+p1 {
+    color: white;
+    background-color: blue;
+}
+
+p2 {
+    color: rgb(153, 255, 153);
+    background-color: blue;
+}
+
+p.hhh {
+    color: orange;
+    background-color: black;
+}
+
+body {
+    background-image: url(https://loseitapp.files.wordpress.com/2014/09/istock_000014459318_double.jpg?w=172&h=195);
+    background-color: purple;
+    background-size: 500px 500px;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+a {
+    background-color: blue;
+    color: red;
+}
+
+a:hover {
+    background-color: red;
+    color: blue
+}
